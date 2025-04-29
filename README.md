@@ -2,4 +2,4 @@
 
 This is just a simple website for a rental company.  It showcases both paralax and bootstrap.  
 
-Lots of things to add to this and do.  It will be rewritten in a OOP framework later on.  This was just built in a day.
+ This was just built in a day and then updated later to use a database for the inventory. Quite simple php and mysql database.
